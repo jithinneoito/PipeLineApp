@@ -1,4 +1,4 @@
-package com.pipelineapp;
+package com.pipelineproject;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

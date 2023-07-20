@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.pipelineapp"
+    namespace "com.pipelineproject"
     defaultConfig {
-        applicationId "com.pipelineapp"
+        applicationId "com.pipelineproject"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
